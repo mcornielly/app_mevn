@@ -12,7 +12,7 @@ A list of technologies used within the project:
 * [Vue.js](https://vuejs.org/)
 * [Node](https://nodejs.org/es/)
 
-##Initialize Project
+## Initialize Project
 ***
 * 1.- npm install in your console
 * 2.- Install MongoDB
