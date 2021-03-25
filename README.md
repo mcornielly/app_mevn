@@ -16,6 +16,6 @@ Note: You must have installed, this technologies.
 
 ## Initialize Project
 ***
-* 1.- npm install in your console
-* 2.- Install MongoDB
+* npm install
+
 
