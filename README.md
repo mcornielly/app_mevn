@@ -12,6 +12,8 @@ A list of technologies used within the project:
 * [Vue.js](https://vuejs.org/)
 * [Node](https://nodejs.org/es/)
 
+Note: You must have installed, this technologies.
+
 ## Initialize Project
 ***
 * 1.- npm install in your console
